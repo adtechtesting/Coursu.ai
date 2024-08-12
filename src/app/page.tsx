@@ -36,7 +36,7 @@ export default function Home() {
           >
             Start Learning Now
           </motion.button>
-          <div className="mt-12 flex gap-6">
+          <div className="mt-12 flex gap-6 hidden">
             <FeatureCard icon="🚀" title="Personalized Learning" description="Courses tailored to your pace and style" />
             <FeatureCard icon="🧠" title="AI-Powered" description="Cutting-edge AI generates unique content" />
             <FeatureCard icon="📊" title="Track Progress" description="Monitor your growth with detailed analytics" />
