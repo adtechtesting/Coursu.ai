@@ -1,4 +1,4 @@
-Hi there! I'm Anant, and I've created Corsu, an AI-powered platform that generates personalized courses for you based on specific YouTube videos. It not only selects the best videos for you but also provides summaries and quizzes to enhance your learning experience. Watch to see how Corsu simplifies learning! Action: Check out how Corsu can revolutionize your learning process!
+Hi there! I'm Anant, and I've created Corsu, an AI-powered platform that generates personalized courses for you with specific YouTube videos. It not only selects the best videos for you but also provides summaries and quizzes to enhance your learning experience. Watch to see how Corsu simplifies learning! Action: Check out how Corsu can revolutionize your learning process!
 
 
 
@@ -38,3 +38,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
