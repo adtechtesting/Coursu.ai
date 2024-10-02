@@ -1,5 +1,5 @@
 import { prisma } from "@/lib/db";
-import { strict_output } from "@/lib/gpt";
+import { strict_output } from "@/lib/gemini";
 import { getTranscript, getTranscriptQuestions, youtube_api } from "@/lib/youtube";
 
 import { NextResponse } from "next/server";

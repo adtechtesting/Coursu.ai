@@ -1,7 +1,7 @@
 import { getAuthSession } from "@/lib/auth";
 import { NextResponse } from "next/server";
 import { prisma } from "@/lib/db";
-import { strict_output } from "@/lib/gpt";
+import { strict_output } from "@/lib/gemini";
 import { getUnsplashImage } from "@/lib/unsplash";
 import { CreatCourseChapterSchema } from "@/validators/course";
 
