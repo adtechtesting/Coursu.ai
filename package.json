@@ -2,12 +2,12 @@
   "name": "coursemaker",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
+"scripts": {
+  "dev": "next dev",
+  "build": "prisma generate && next build",
+  "start": "next start",
+  "lint": "next lint"
+},
   "dependencies": {
     "@google/generative-ai": "^0.16.0",
     "@hookform/resolvers": "^3.9.0",
